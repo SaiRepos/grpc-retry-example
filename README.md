@@ -13,5 +13,3 @@ A simple example to demo the retry mechanism in gRPC java.The project has below 
 To build both the modules,run `maven clean install` in `grpc-retry-example`
 
 
-<meta name="google-site-verification" content="JFLCSlauZe4Gt6zT_nUmSKltEBe8d7A_RPfrmlzSxNs" />
-
